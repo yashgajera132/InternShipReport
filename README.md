@@ -89,26 +89,6 @@ This repository contains the detailed weekly reports for Yash Gajera's Data Anal
 - YouTube
 
 ---
-
-## How to Use This Repository
-
-1. **Clone the Repository:**
-   ```sh
-   git clone https://github.com/Yash-Gajera/Internship-Projects.git
-   ```
-2. **Navigate to the Reports:**
-   ```sh
-   cd Internship-Projects/Weekly_Reports
-   ```
-
-3. **Open Reports:**
-   Each report is available in the repository for detailed insights into weekly tasks and learnings.
-
-## Contact
-For any questions or further information, please contact Yash Gajera at yash.gajera@charusat.edu.
-
----
-
 ## Acknowledgments
 - CLUMOSS for providing the internship opportunity.
 - External and Internal guides for their support and guidance.
